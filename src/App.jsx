@@ -29,7 +29,7 @@ function App() {
         <button  className='boton' onClick={ejecutarAmbasFunciones}>Obtener Fortuna</button>
         <div className="frase-imagen">
             <p className='frase'>{fraseActual.phrase}</p>
-            <img src="../src/assets/rectangle2.svg" alt="" />
+            <img src="../src/assets/rectangle2.svg" />
           </div>
         
         
